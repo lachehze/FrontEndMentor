@@ -1,0 +1,30 @@
+body{
+    font-family: 'Outfit';
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+}
+div{
+    background-color: hsl(0, 0%, 100%);
+    width:320px;
+    border-radius: 15px;
+    padding:15px;
+}
+img{
+    width: 100%;
+    border-radius: 15px;
+}
+p{
+    width:100%;
+    text-align: center;
+    font-size: 15px;
+}
+.improve{
+    color:hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+
+.scan{
+    color:hsl(220, 15%, 55%);
+    font-weight: 400;
+}
